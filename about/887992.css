@@ -1,0 +1,64 @@
+html {
+  font-size: 15px;
+  text-align: center;
+}
+html, body {
+  background: -webkit-linear-gradient(-45deg, powderblue, cornflowerblue);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  align-content: center;
+  background-color: purple;
+  font-family: Courier;
+  font-size: 25px;
+  text-align: center;
+}
+
+h2 {
+  align-content: center;
+  background-color: plum;
+  font-family: Courier;
+  font-size: 20px;
+  text-align: center;
+}
+h3 {
+  align-content: center;
+  background-color: plum;
+  font-family: Courier;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+
+
+#Colosseo {
+  width: 400;
+  height: 300;
+  border: 5px solid;
+border-color:black;
+}
+
+#Siviglia {
+  width: 700;
+  height: 120;
+  border: 5px solid;
+border-color: black;
+
+}
+#Corfù {
+  width: 500;
+  height: 120;
+  border: 5px solid;
+border-color: black;
+
+}
+#Venezia {
+  width: 450;
+  height: 300;
+  border: 5px solid;
+border-color: black;
+}

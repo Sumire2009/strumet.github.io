@@ -1,0 +1,48 @@
+body{
+  background-image:url("893573_01.JPG");
+}
+
+
+
+  h1 {
+  font-family: Arial;
+  color: darkslategray;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+  p {
+    font-family: Georgia;
+    font-size: 15px;
+    color: black;
+    width: 600px;
+    text-align: justify;
+    letter-spacing: 1px
+    line-height: 4
+  }
+
+  h2 {
+  font-family: Helvetica;
+  color: lightslategrey
+}
+div, img {
+
+  display: block;
+  position: relative
+  width: 400px
+}
+.caption {
+  display: block;
+  font-family:'Playfair display', Helvetica;
+  top: 82%;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 30px;
+  margin-left: 10px;
+  position: absolute;
+  width: 35%;
+  background-color: white;
+  padding: 20px
+  color: black;
+  opacity: 0.6;
+}

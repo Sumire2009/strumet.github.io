@@ -1,125 +1,236 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1190.6 1190.6" enable-background="new 0 0 1190.6 1190.6" xml:space="preserve">
-<g id="Layer_1">
-	<rect x="0" y="-0.2" fill="#B4D6C6" width="1190.6" height="1190.6"/>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1190.6 1190.6" style="enable-background:new 0 0 1190.6 1190.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B4D6C6;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#D1001C;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#D1001C;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#2B00AD;stroke-miterlimit:10;}
+	.st7{clip-path:url(#SVGID_2_);}
+	.st8{clip-path:url(#SVGID_4_);}
+	.st9{fill:none;}
+	.st10{font-family:'OpenSansCondensed-Bold';}
+	.st11{font-size:60px;}
+	.st12{font-family:'EBGaramond-MediumItalic';}
+	.st13{font-size:10px;}
+	.st14{font-family:'OpenSansCondensed-Light';}
+	.st15{font-size:16px;}
+</style>
+<g id="Layer_1_1_">
+	<rect y="-0.2" class="st0" width="1190.6" height="1190.6"/>
 </g>
 <g id="Layer_5">
 </g>
-<g id="Layer_2">
-	<rect x="337.3" y="337.2" fill="none" width="239.5" height="239.5"/>
-	<text transform="matrix(1 0 0 1 337.3174 349.3975)"><tspan x="0" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px">Lorem</tspan><tspan x="33" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="41.1" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px">ipsum</tspan><tspan x="73.1" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="81.2" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px">dolor</tspan><tspan x="108.9" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="117" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px">sit</tspan><tspan x="128.5" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="136.6" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px">amet,</tspan><tspan x="166" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="174.1" y="0" font-family="'OpenSansCondensed-Light'" font-size="16px">consectetuer </tspan><tspan x="0" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">adipiscing</tspan><tspan x="51.7" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="55.5" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">elit,</tspan><tspan x="74.6" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="78.4" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">sed</tspan><tspan x="96.7" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="100.5" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">diam</tspan><tspan x="126.8" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="130.7" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">nonummy</tspan><tspan x="183.2" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="187" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">nibh</tspan><tspan x="210.6" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="214.4" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">euis</tspan><tspan x="235.5" y="24" font-family="'OpenSansCondensed-Light'" font-size="16px">-</tspan><tspan x="0" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px">Lorem</tspan><tspan x="33" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="41.1" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px">ipsum</tspan><tspan x="73.1" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="81.2" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px">dolor</tspan><tspan x="108.9" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="117" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px">sit</tspan><tspan x="128.5" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="136.6" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px">amet,</tspan><tspan x="166" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="5"> </tspan><tspan x="174.1" y="48" font-family="'OpenSansCondensed-Light'" font-size="16px">consectetuer </tspan><tspan x="0" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">adipiscing</tspan><tspan x="51.7" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="55.5" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">elit,</tspan><tspan x="74.6" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="78.4" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">sed</tspan><tspan x="96.7" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="100.5" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">diam</tspan><tspan x="126.8" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="130.7" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">nonummy</tspan><tspan x="183.2" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="187" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">nibh</tspan><tspan x="210.6" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="214.4" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">euis</tspan><tspan x="235.5" y="72" font-family="'OpenSansCondensed-Light'" font-size="16px">-</tspan><tspan x="0" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px">mod</tspan><tspan x="23.8" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="7"> </tspan><tspan x="34.8" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px">tincidunt</tspan><tspan x="80.1" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="7"> </tspan><tspan x="91.1" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px">ut</tspan><tspan x="101.4" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="7"> </tspan><tspan x="112.4" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px">laoreet</tspan><tspan x="148.6" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="7"> </tspan><tspan x="159.6" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px">dolore</tspan><tspan x="193.5" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="7"> </tspan><tspan x="204.5" y="96" font-family="'OpenSansCondensed-Light'" font-size="16px">magna </tspan><tspan x="0" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">aliquam</tspan><tspan x="42.2" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="1"> </tspan><tspan x="46.3" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">erat</tspan><tspan x="66.5" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="1"> </tspan><tspan x="70.6" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">volutpat.</tspan><tspan x="115.5" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="1"> </tspan><tspan x="119.6" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">Ut</tspan><tspan x="131" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="1"> </tspan><tspan x="135" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">wisi</tspan><tspan x="154.9" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="1"> </tspan><tspan x="158.9" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">enim</tspan><tspan x="185.2" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="1"> </tspan><tspan x="189.2" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">ad</tspan><tspan x="202.3" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px" letter-spacing="1"> </tspan><tspan x="206.4" y="120" font-family="'OpenSansCondensed-Light'" font-size="16px">minim </tspan><tspan x="0" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px">veniam,</tspan><tspan x="40.8" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="43.7" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px">quis</tspan><tspan x="65.5" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="68.3" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px">nostrud</tspan><tspan x="108.5" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="111.3" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px">exerci</tspan><tspan x="141.5" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="144.4" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px">tation</tspan><tspan x="174" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="176.8" y="144" font-family="'OpenSansCondensed-Light'" font-size="16px">ullamcorper </tspan><tspan x="0" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">suscipit</tspan><tspan x="38.3" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="41.4" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">lobortis</tspan><tspan x="80.6" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="83.7" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">nisl</tspan><tspan x="101.6" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="104.7" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">ut</tspan><tspan x="115" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="118.1" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">aliquip</tspan><tspan x="154" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="157.1" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">ex</tspan><tspan x="168.7" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="171.8" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">ea</tspan><tspan x="184.2" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="187.3" y="168" font-family="'OpenSansCondensed-Light'" font-size="16px">commodo </tspan><tspan x="0" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">consequat.</tspan><tspan x="56.4" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="59.9" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">Duis</tspan><tspan x="82.6" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="86.1" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">autem</tspan><tspan x="119" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="122.5" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">vel</tspan><tspan x="136.9" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="140.4" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">eum</tspan><tspan x="163.7" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="167.2" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">iriure</tspan><tspan x="195" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="198.6" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">dolor</tspan><tspan x="226.2" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px"> </tspan><tspan x="229.7" y="192" font-family="'OpenSansCondensed-Light'" font-size="16px">in </tspan><tspan x="4.7" y="216" font-family="'OpenSansCondensed-Light'" font-size="16px">hendrerit in vulputate velit esse molestie con</tspan></text>
+<g id="Layer_3" class="st1">
+	<g class="st2">
+		<rect x="60.8" y="60.8" class="st3" width="184.3" height="184.3"/>
+		<rect x="281.9" y="60.8" class="st3" width="184.3" height="184.3"/>
+		<rect x="503" y="60.8" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.1" y="60.8" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.2" y="60.8" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.8" y="281.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="281.9" y="281.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="503" y="281.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.1" y="281.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.2" y="281.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.8" y="503" class="st3" width="184.3" height="184.3"/>
+		<rect x="281.9" y="503" class="st3" width="184.3" height="184.3"/>
+		<rect x="503" y="503" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.1" y="503" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.2" y="503" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.8" y="724.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="281.9" y="724.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="503" y="724.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.1" y="724.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.2" y="724.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.8" y="945.2" class="st3" width="184.3" height="184.3"/>
+		<rect x="281.9" y="945.2" class="st3" width="184.3" height="184.3"/>
+		<rect x="503" y="945.2" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.1" y="945.2" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.2" y="945.2" class="st3" width="184.3" height="184.3"/>
+	</g>
+</g>
+<g id="Layer_4" class="st1">
+	<rect x="60.9" y="60.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="245.2" y="60.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="429.4" y="60.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="613.7" y="60.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="797.9" y="60.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="982.2" y="60.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="60.9" y="245.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="245.2" y="245.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="429.4" y="245.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="613.7" y="245.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="797.9" y="245.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="982.2" y="245.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="60.9" y="429.4" class="st4" width="147.4" height="147.4"/>
+	<rect x="245.2" y="429.4" class="st4" width="147.4" height="147.4"/>
+	<rect x="429.4" y="429.4" class="st4" width="147.4" height="147.4"/>
+	<rect x="613.7" y="429.4" class="st4" width="147.4" height="147.4"/>
+	<rect x="797.9" y="429.4" class="st4" width="147.4" height="147.4"/>
+	<rect x="982.2" y="429.4" class="st4" width="147.4" height="147.4"/>
+	<rect x="60.9" y="613.7" class="st4" width="147.4" height="147.4"/>
+	<rect x="245.2" y="613.7" class="st4" width="147.4" height="147.4"/>
+	<rect x="429.4" y="613.7" class="st4" width="147.4" height="147.4"/>
+	<rect x="613.7" y="613.7" class="st4" width="147.4" height="147.4"/>
+	<rect x="797.9" y="613.7" class="st4" width="147.4" height="147.4"/>
+	<rect x="982.2" y="613.7" class="st4" width="147.4" height="147.4"/>
+	<rect x="60.9" y="797.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="245.2" y="797.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="429.4" y="797.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="613.7" y="797.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="797.9" y="797.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="982.2" y="797.9" class="st4" width="147.4" height="147.4"/>
+	<rect x="60.9" y="982.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="245.2" y="982.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="429.4" y="982.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="613.7" y="982.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="797.9" y="982.2" class="st4" width="147.4" height="147.4"/>
+	<rect x="982.2" y="982.2" class="st4" width="147.4" height="147.4"/>
+</g>
+<g>
+	<rect x="60.9" y="60.9" class="st3" width="184.3" height="184.3"/>
+	<rect x="282" y="60.9" class="st3" width="184.3" height="184.3"/>
+	<rect x="503.1" y="60.9" class="st3" width="184.3" height="184.3"/>
+	<rect x="724.2" y="60.9" class="st3" width="184.3" height="184.3"/>
+	<rect x="945.3" y="60.9" class="st3" width="184.3" height="184.3"/>
+	<rect x="60.9" y="282" class="st3" width="184.3" height="184.3"/>
+	<rect x="282" y="282" class="st3" width="184.3" height="184.3"/>
+	<rect x="503.1" y="282" class="st3" width="184.3" height="184.3"/>
+	<rect x="724.2" y="282" class="st3" width="184.3" height="184.3"/>
+	<rect x="945.3" y="282" class="st3" width="184.3" height="184.3"/>
+	<rect x="60.9" y="503.1" class="st3" width="184.3" height="184.3"/>
+	<rect x="282" y="503.1" class="st3" width="184.3" height="184.3"/>
+	<rect x="503.1" y="503.1" class="st3" width="184.3" height="184.3"/>
+	<rect x="724.2" y="503.1" class="st3" width="184.3" height="184.3"/>
+	<rect x="945.3" y="503.1" class="st3" width="184.3" height="184.3"/>
+	<rect x="60.9" y="724.2" class="st3" width="184.3" height="184.3"/>
+	<rect x="282" y="724.2" class="st3" width="184.3" height="184.3"/>
+	<rect x="503.1" y="724.2" class="st3" width="184.3" height="184.3"/>
+	<rect x="724.2" y="724.2" class="st3" width="184.3" height="184.3"/>
+	<rect x="945.3" y="724.2" class="st3" width="184.3" height="184.3"/>
+	<rect x="60.9" y="945.3" class="st3" width="184.3" height="184.3"/>
+	<rect x="282" y="945.3" class="st3" width="184.3" height="184.3"/>
+	<rect x="503.1" y="945.3" class="st3" width="184.3" height="184.3"/>
+	<rect x="724.2" y="945.3" class="st3" width="184.3" height="184.3"/>
+	<rect x="945.3" y="945.3" class="st3" width="184.3" height="184.3"/>
+</g>
+<rect x="61" y="61" class="st5" width="147.4" height="147.4"/>
+<rect x="245.3" y="61" class="st5" width="147.4" height="147.4"/>
+<rect x="429.5" y="61" class="st5" width="147.4" height="147.4"/>
+<rect x="613.8" y="61" class="st5" width="147.4" height="147.4"/>
+<rect x="798" y="61" class="st5" width="147.4" height="147.4"/>
+<rect x="982.3" y="61" class="st5" width="147.4" height="147.4"/>
+<rect x="61" y="245.3" class="st5" width="147.4" height="147.4"/>
+<rect x="245.3" y="245.3" class="st5" width="147.4" height="147.4"/>
+<rect x="429.5" y="245.3" class="st5" width="147.4" height="147.4"/>
+<rect x="613.8" y="245.3" class="st5" width="147.4" height="147.4"/>
+<rect x="798" y="245.3" class="st5" width="147.4" height="147.4"/>
+<rect x="982.3" y="245.3" class="st5" width="147.4" height="147.4"/>
+<rect x="61" y="429.5" class="st5" width="147.4" height="147.4"/>
+<rect x="245.3" y="429.5" class="st5" width="147.4" height="147.4"/>
+<rect x="429.5" y="429.5" class="st5" width="147.4" height="147.4"/>
+<rect x="613.8" y="429.5" class="st5" width="147.4" height="147.4"/>
+<rect x="798" y="429.5" class="st5" width="147.4" height="147.4"/>
+<rect x="982.3" y="429.5" class="st5" width="147.4" height="147.4"/>
+<rect x="61" y="613.8" class="st5" width="147.4" height="147.4"/>
+<rect x="245.3" y="613.8" class="st5" width="147.4" height="147.4"/>
+<rect x="429.5" y="613.8" class="st5" width="147.4" height="147.4"/>
+<rect x="613.8" y="613.8" class="st5" width="147.4" height="147.4"/>
+<rect x="798" y="613.8" class="st5" width="147.4" height="147.4"/>
+<rect x="982.3" y="613.8" class="st5" width="147.4" height="147.4"/>
+<rect x="61" y="798" class="st5" width="147.4" height="147.4"/>
+<rect x="245.3" y="798" class="st5" width="147.4" height="147.4"/>
+<rect x="429.5" y="798" class="st5" width="147.4" height="147.4"/>
+<rect x="613.8" y="798" class="st5" width="147.4" height="147.4"/>
+<rect x="798" y="798" class="st5" width="147.4" height="147.4"/>
+<rect x="982.3" y="798" class="st5" width="147.4" height="147.4"/>
+<rect x="61" y="982.3" class="st5" width="147.4" height="147.4"/>
+<rect x="245.3" y="982.3" class="st5" width="147.4" height="147.4"/>
+<rect x="429.5" y="982.3" class="st5" width="147.4" height="147.4"/>
+<rect x="613.8" y="982.3" class="st5" width="147.4" height="147.4"/>
+<rect x="798" y="982.3" class="st5" width="147.4" height="147.4"/>
+<rect x="982.3" y="982.3" class="st5" width="147.4" height="147.4"/>
+<g id="Layer_2_1_">
+	<rect x="60.9" y="60.9" class="st6" width="239.5" height="239.5"/>
+	<rect x="337.3" y="60.9" class="st6" width="239.5" height="239.5"/>
+	<rect x="613.7" y="60.9" class="st6" width="239.5" height="239.5"/>
+	<rect x="890.1" y="60.9" class="st6" width="239.5" height="239.5"/>
+	<rect x="60.9" y="337.2" class="st6" width="239.5" height="239.5"/>
+	<rect x="337.3" y="337.2" class="st6" width="239.5" height="239.5"/>
+	<rect x="613.7" y="337.2" class="st6" width="239.5" height="239.5"/>
+	<rect x="890.1" y="337.2" class="st6" width="239.5" height="239.5"/>
+	<rect x="60.9" y="613.6" class="st6" width="239.5" height="239.5"/>
 	<g>
-		<defs>
-			<rect id="SVGID_1_" x="613.7" y="613.6" width="239.5" height="239.5"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<g clip-path="url(#SVGID_2_)">
-			
-				<image overflow="visible" width="3072" height="2041" xlink:href="893033_03.jpg"  transform="matrix(0.1334 0 0 0.1334 557 597)">
-			</image>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="613.7" y="613.6" width="239.5" height="239.5"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st7">
+
+						<image style="overflow:visible;enable-background:new    ;" width="3072" height="2041" xlink:href="893033_03.jpg"  transform="matrix(0.1334 0 0 0.1334 557 597)">
+					</image>
+				</g>
+			</g>
 		</g>
 	</g>
+	<rect x="890.1" y="613.6" class="st6" width="239.5" height="239.5"/>
+	<rect x="60.9" y="890" class="st6" width="239.5" height="239.5"/>
+	<rect x="337.3" y="890" class="st6" width="239.5" height="239.5"/>
+	<rect x="613.7" y="890" class="st6" width="239.5" height="239.5"/>
+	<rect x="890.1" y="890" class="st6" width="239.5" height="239.5"/>
 	<g>
-		<defs>
-			<ellipse id="SVGID_3_" cx="462.5" cy="733.9" rx="120" ry="119.5"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  overflow="visible"/>
-		</clipPath>
-		<g transform="matrix(1 0 0 1 7.629395e-06 -3.051758e-05)" clip-path="url(#SVGID_4_)">
-			
-				<image overflow="visible" width="4032" height="3024" xlink:href="893033_05.JPG"  transform="matrix(0.1864 0 0 0.1864 102 420)">
-			</image>
+		<g>
+			<g>
+				<defs>
+					<ellipse id="SVGID_3_" cx="462.5" cy="733.9" rx="120" ry="119.5"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 7.629395e-06 -3.051758e-05)" class="st8">
+
+						<image style="overflow:visible;enable-background:new    ;" width="4032" height="3024" xlink:href="893033_05.jpg"  transform="matrix(0.1864 0 0 0.1864 102 420)">
+					</image>
+				</g>
+			</g>
 		</g>
 	</g>
-</g>
-<g id="Layer_7" display="none">
-	<rect x="60.9" y="60.9" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="337.3" y="60.9" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="613.7" y="60.9" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="890.1" y="60.9" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="60.9" y="337.2" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="613.7" y="337.2" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="890.1" y="337.2" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="60.9" y="613.6" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="890.1" y="613.6" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="60.9" y="890" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="337.3" y="890" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="613.7" y="890" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-	<rect x="890.1" y="890" display="inline" fill="none" stroke="#2B00AD" stroke-miterlimit="10" width="239.5" height="239.5"/>
-</g>
-<g id="Layer_3" display="none">
-	<rect x="60.8" y="60.8" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="281.9" y="60.8" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="503" y="60.8" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="724.1" y="60.8" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="945.2" y="60.8" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="60.8" y="281.9" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="503" y="281.9" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="724.1" y="281.9" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="945.2" y="281.9" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="60.8" y="503" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="281.9" y="503" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="503" y="503" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="724.1" y="503" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="945.2" y="503" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="60.8" y="724.1" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="281.9" y="724.1" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="503" y="724.1" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="724.1" y="724.1" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="945.2" y="724.1" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="60.8" y="945.2" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="281.9" y="945.2" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="503" y="945.2" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="724.1" y="945.2" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-	<rect x="945.2" y="945.2" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="184.3" height="184.3"/>
-</g>
-<g id="Layer_4" display="none">
-	<rect x="60.9" y="60.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="245.2" y="60.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="429.4" y="60.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="613.7" y="60.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="797.9" y="60.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="982.2" y="60.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="60.9" y="245.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="245.2" y="245.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="429.4" y="245.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="613.7" y="245.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="797.9" y="245.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="982.2" y="245.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="60.9" y="429.4" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="245.2" y="429.4" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="429.4" y="429.4" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="613.7" y="429.4" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="797.9" y="429.4" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="982.2" y="429.4" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="60.9" y="613.7" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="245.2" y="613.7" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="429.4" y="613.7" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="613.7" y="613.7" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="797.9" y="613.7" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="982.2" y="613.7" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="60.9" y="797.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="245.2" y="797.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="429.4" y="797.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="613.7" y="797.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="797.9" y="797.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="982.2" y="797.9" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="60.9" y="982.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="245.2" y="982.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="429.4" y="982.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="613.7" y="982.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="797.9" y="982.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
-	<rect x="982.2" y="982.2" display="inline" fill="none" stroke="#D1001C" stroke-miterlimit="10" width="147.4" height="147.4"/>
 </g>
 <g id="Layer_6">
-	<rect x="282" y="163.5" fill="none" width="626" height="60.5"/>
-	<text transform="matrix(1 0 0 1 341.3916 209.0903)" font-family="'OpenSansCondensed-Bold'" font-size="60px">La mucca nella griglia</text>
-	<rect x="614" y="882.2" fill="none" width="239" height="15.8"/>
-	<text transform="matrix(1 0 0 1 636.2871 889.3027)"><tspan x="0" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">R</tspan><tspan x="7.1" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">a</tspan><tspan x="12" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">zza </tspan><tspan x="27.8" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">b</tspan><tspan x="32.6" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">ov</tspan><tspan x="41" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">i</tspan><tspan x="44" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">na Hi</tspan><tspan x="67.4" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">g</tspan><tspan x="71.5" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">h</tspan><tspan x="76.5" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">l</tspan><tspan x="79.4" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">a</tspan><tspan x="84.3" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">nder orig</tspan><tspan x="120.5" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">i</tspan><tspan x="123.4" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">n</tspan><tspan x="128.9" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">a</tspan><tspan x="133.8" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">ria d</tspan><tspan x="153.5" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">e</tspan><tspan x="156.8" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">l</tspan><tspan x="159.6" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">la S</tspan><tspan x="174.7" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">c</tspan><tspan x="177.9" y="0" font-family="'EBGaramond-MediumItalic'" font-size="10px">ozia</tspan></text>
+	<rect x="282.3" y="164.6" class="st9" width="626" height="60.5"/>
+	<text transform="matrix(1 0 0 1 341.7209 210.2109)" class="st10 st11">La mucca nella griglia</text>
+	<rect x="614.3" y="883.3" class="st9" width="239" height="15.8"/>
+	<text transform="matrix(1 0 0 1 636.6164 890.4233)" class="st12 st13">R</text>
+	<text transform="matrix(1 0 0 1 643.7164 890.4233)" class="st12 st13">a</text>
+	<text transform="matrix(1 0 0 1 648.6164 890.4233)" class="st12 st13">zza </text>
+	<text transform="matrix(1 0 0 1 664.4164 890.4233)" class="st12 st13">b</text>
+	<text transform="matrix(1 0 0 1 669.2164 890.4233)" class="st12 st13">ov</text>
+	<text transform="matrix(1 0 0 1 677.6164 890.4233)" class="st12 st13">i</text>
+	<text transform="matrix(1 0 0 1 680.6164 890.4233)" class="st12 st13">na Hi</text>
+	<text transform="matrix(1 0 0 1 704.0164 890.4233)" class="st12 st13">g</text>
+	<text transform="matrix(1 0 0 1 708.1164 890.4233)" class="st12 st13">h</text>
+	<text transform="matrix(1 0 0 1 713.1164 890.4233)" class="st12 st13">l</text>
+	<text transform="matrix(1 0 0 1 716.0164 890.4233)" class="st12 st13">a</text>
+	<text transform="matrix(1 0 0 1 720.9164 890.4233)" class="st12 st13">nder orig</text>
+	<text transform="matrix(1 0 0 1 757.1164 890.4233)" class="st12 st13">i</text>
+	<text transform="matrix(1 0 0 1 760.0164 890.4233)" class="st12 st13">n</text>
+	<text transform="matrix(1 0 0 1 765.5164 890.4233)" class="st12 st13">a</text>
+	<text transform="matrix(1 0 0 1 770.4164 890.4233)" class="st12 st13">ria d</text>
+	<text transform="matrix(1 0 0 1 790.1164 890.4233)" class="st12 st13">e</text>
+	<text transform="matrix(1 0 0 1 793.4164 890.4233)" class="st12 st13">l</text>
+	<text transform="matrix(1 0 0 1 796.2164 890.4233)" class="st12 st13">la S</text>
+	<text transform="matrix(1 0 0 1 811.3163 890.4233)" class="st12 st13">c</text>
+	<text transform="matrix(1 0 0 1 814.5164 890.4233)" class="st12 st13">ozia</text>
 </g>
+<rect x="245.3" y="246.4" class="st9" width="331.9" height="331.4"/>
+<text transform="matrix(1 0 0 1 245.2707 258.564)"><tspan x="0" y="0" class="st14 st15">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed </tspan><tspan x="0" y="24" class="st14 st15">diam nonummy nibh euismod tincidunt ut laoreet dolore </tspan><tspan x="0" y="48" class="st14 st15">magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </tspan><tspan x="0" y="72" class="st14 st15">quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut </tspan><tspan x="0" y="96" class="st14 st15">aliquip ex ea commodo consequat. Duis autem vel eum iriure </tspan><tspan x="0" y="120" class="st14 st15">dolor in hendrerit in vulputate velit esse molestie consequat, vel </tspan><tspan x="0" y="144" class="st14 st15">illum dolore eu feugiat nulla facilisis at vero eros et accumsan et </tspan><tspan x="0" y="168" class="st14 st15">iusto odio dignissim qui blandit praesent luptatum zzril delenit </tspan><tspan x="0" y="192" class="st14 st15">augue duis dolore te feugait nulla facilisi.</tspan><tspan x="0" y="216" class="st14 st15">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed </tspan><tspan x="0" y="240" class="st14 st15">diam nonummy nibh euismod tincidunt ut laoreet dolore </tspan><tspan x="0" y="264" class="st14 st15">magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </tspan><tspan x="0" y="288" class="st14 st15">quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut </tspan><tspan x="0" y="312" class="st14 st15">aliquip ex ea commodo consequat.</tspan></text>
 </svg>

@@ -1,0 +1,32 @@
+body {
+  font-family: 'Karma', serif;
+  background: -webkit-linear-gradient(-45deg, #F99F9A, #8AD6CC);
+  margin: 20;
+  padding: 0;
+
+}
+h1 {
+  color: #058CBC;
+  style="font-size: 56px; margin: 24px 0;";
+  padding-top: 1px;
+  width: 100%;
+}
+h2 {
+  color: #E44B03;
+}
+h3 {
+  color: #F27B01;
+}
+p,
+ul,
+span {
+  color: #1F2449;
+
+}
+.big {
+  font-size: 45px;
+  margin-bottom: 0px;
+}
+.content {
+  padding: -10px;
+}
